@@ -2,6 +2,8 @@
 
 Bitcoin Tracker Proxy is a NodeJS proxy to get the prices from Binance and Crypto Compare.
 
+GO version: [alejandrosnz/bitcoin-tracker-proxy-go](https://github.com/alejandrosnz/bitcoin-tracker-proxy-go)
+
 ## Installation
 
 Install Node and then run the following command
@@ -17,7 +19,7 @@ export CRYPTO_COMPARE_API_KEY="your_crypto_compare_api_key"
 npm start
 ```
 
-Alternatively, the following docker image can be used: https://hub.docker.com/r/alejandrosnz/bitcoin-tracker-proxy
+Alternatively, the following docker image can be used: [alejandrosnz/bitcoin-tracker-proxy](https://hub.docker.com/r/alejandrosnz/bitcoin-tracker-proxy)
 
 ```bash
 docker pull alejandrosnz/bitcoin-tracker-proxy
